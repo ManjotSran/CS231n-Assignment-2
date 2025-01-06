@@ -1,2 +1,1 @@
-# CS231n-Assignment-2
-Assignment #2: Fully Connected and Convolutional Nets, Batch Normalization, Dropout, Pytorch &amp; Network Visualization
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2022.
